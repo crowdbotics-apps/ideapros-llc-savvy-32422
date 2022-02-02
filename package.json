@@ -15,6 +15,7 @@
     "@modules/camera": "file:./modules/camera",
     "@modules/login": "file:./modules/login/",
     "@modules/maps": "file:./modules/maps/",
+    "@modules/onboarding": "file:./modules/onboarding/",
     "@modules/payments": "file:./modules/payments",
     "@modules/privacy-policy": "file:./modules/privacy-policy",
     "@modules/push-notifications": "file:./modules/push-notifications/",
